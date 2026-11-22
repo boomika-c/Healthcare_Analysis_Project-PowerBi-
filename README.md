@@ -134,14 +134,15 @@ SELECTEDVALUE ( healthcare_dataset[Hospital details], "All Hospitals" )
 - Use the drill-through page to review hospitals over time. Per-hospital volumes are small (about 30-40 patients), so avoid judging on single numbers.
 
 ## Repository Structure
-Healthcare_Analysis_Project-PowerBi/
--Healthcare_Analysis_Powerbiproject.pbix
--Healthcare_Project_Summary(powerbi) (1).pdf
--Healthcare_powerbi_page(3).jpg.jpeg
--Patient Review.jpg.jpeg
--README.md
--healthcare_dataset.csv
--healthcare_powerbi_page1.jpg.jpeg
+Healthcare_Analysis_Project-PowerBi-/
+├── Healthcare_Analysis_Powerbiproject.pbix
+├── Healthcare_Project_Summary(powerbi) (1).pdf
+├── Healthcare_powerbi_page(3).jpg.jpeg
+├── Patient Review.jpg.jpeg
+├── README.md
+├── healthcare_dataset.csv
+└── healthcare_powerbi_page1.jpg.jpeg
+
 ## How to Use
 
 1. Download `Healthcare_Dashboard.pbix`.
