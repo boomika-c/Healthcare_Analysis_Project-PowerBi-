@@ -36,19 +36,19 @@ An interactive 3-page Power BI report that analyses patient admissions, billing 
 ### Page 1 - Patient Review
 KPI cards (Total Patients, Total Revenue, Avg Billing, Avg Stay), admissions by month (2019-2024), gender split, medical conditions by patients, and admission type.
 
-![Page 1]<img width="907" height="506" alt="healthcare_powerbi_page1 jpg" src="https://github.com/user-attachments/assets/9c4f9d2f-d888-4420-bcb0-8de9db375827" />
+<img width="907" height="506" alt="healthcare_powerbi_page1 jpg" src="https://github.com/user-attachments/assets/9c4f9d2f-d888-4420-bcb0-8de9db375827" />
 
 
 ### Page 2 - Revenue and Insights
 Revenue by insurance provider, top 10 hospitals by revenue, average billing by medical condition, a medication-by-condition matrix, and a revenue treemap by condition.
 
-![Page 2]<img width="925" height="507" alt="healthcare_powerbi_page(2) jpg" src="https://github.com/user-attachments/assets/a0e89c35-c799-4729-b4b5-18e2f74c2c4d" />
+<img width="925" height="507" alt="healthcare_powerbi_page(2) jpg" src="https://github.com/user-attachments/assets/a0e89c35-c799-4729-b4b5-18e2f74c2c4d" />
 
 
 ### Page 3 - Hospital Details (drill through)
 Right-click a hospital on page 2 and choose **Drill through > Hospital_details**. The page shows the selected hospital's name, KPIs, conditions and admission types.
 
-![Page 3]<img width="922" height="503" alt="Healthcare_powerbi_page(3) jpg" src="https://github.com/user-attachments/assets/d83f736e-00ce-462a-889f-2ba7ed251fe9" />
+<img width="922" height="503" alt="Healthcare_powerbi_page(3) jpg" src="https://github.com/user-attachments/assets/d83f736e-00ce-462a-889f-2ba7ed251fe9" />
 
 
 ## Key Features
