@@ -16,7 +16,7 @@ An interactive 3-page Power BI report that analyses patient admissions, billing 
 
 | Item | Detail |
 |---|---|
-| Source | [Kaggle - Healthcare Dataset](https://www.kaggle.com/) (synthetic data) |
+| Source | [Kaggle - Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare=dataset) (synthetic data) |
 | Size | 55,500 rows and 15 columns (about 54,964 patient records after removing duplicates) |
 | Period | May 2019 to May 2024 |
 | Key columns | Age, Gender, Blood Type, Medical Condition, Date of Admission, Discharge Date, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Medication, Test Results |
@@ -134,20 +134,14 @@ SELECTEDVALUE ( healthcare_dataset[Hospital details], "All Hospitals" )
 - Use the drill-through page to review hospitals over time. Per-hospital volumes are small (about 30-40 patients), so avoid judging on single numbers.
 
 ## Repository Structure
-
-```
-Healthcare-Analysis-PowerBI/
-├── README.md
-├── Healthcare_Dashboard.pbix
-├── Healthcare_Project_Summary.pdf
-├── Dataset/
-│   └── healthcare_dataset.csv
-└── Screenshots/
-    ├── page1_patient_review.jpg
-    ├── page2_revenue_insights.jpg
-    └── page3_hospital_details.jpg
-```
-
+Healthcare_Analysis_Project-PowerBi/
+-Healthcare_Analysis_Powerbiproject.pbix
+-Healthcare_Project_Summary(powerbi) (1).pdf
+-Healthcare_powerbi_page(3).jpg.jpeg
+-Patient Review.jpg.jpeg
+-README.md
+-healthcare_dataset.csv
+-healthcare_powerbi_page1.jpg.jpeg
 ## How to Use
 
 1. Download `Healthcare_Dashboard.pbix`.
